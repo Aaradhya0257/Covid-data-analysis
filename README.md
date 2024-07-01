@@ -1,1 +1,1 @@
-This project aims to analyze COVID-19 data to observe changes in death rates over time. By utilizing data visualization and statistical methods, we identify key patterns and trends to understand the pandemic's impact and provide insights for future public health strategies.
+
